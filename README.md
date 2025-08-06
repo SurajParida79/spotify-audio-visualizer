@@ -14,23 +14,35 @@ A Python project that fetches your top tracks from Spotify and visualizes their 
 
 ## Prerequisites
 Make sure you have the following installed:
+
 Python 3.8+
+
 Git
+
 pip
 
 ## How to Run
 1. Clone the repo:
+
 Open a terminal in the folder where you want to store the project, then run:
+
 git clone https://github.com/yourusername/spotify-audio-features-visualizer.git
+
 cd spotify-audio-features-visualizer
+
 Replace 'yourusername' with your actual GitHub username.
 
 2. Set up the environment:
+
 Install the required packages:
+
 pip install -r requirements.txt
 
 3. Set up `.env` file based on `.env.example`
+   
 4. Run the script:
+
+   
 python main.py
 
 ## Notes
